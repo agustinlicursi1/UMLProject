@@ -1,19 +1,18 @@
-# Análisis Funcional - Sistema de trenes
+# Functional Analysis - Train System
 
-Este proyecto académico fue realizado en la materia **Análisis y Diseño de Sistemas**.
-El objetivo fue documentar y modelar un sistema de gestión de trenes mediante UML y especificaciones funcionales.
+This academic project was carried out as a part of the **Análisis y Diseño de Sistemas** course.
+The objective was to document and model a train management system using UML and functional specifications.
 
-## Contenido:
-- Documento PDF con:
-  1. Diagramas de casos de uso
-  2. Especificaciones de casos de uso
-  3. Diagramas de clases y secuencia
-  4. Diagrama de componentes
-  5. Modelo entidad-relación
-  6. Reglas de negocio
+## Contents:
+- PDF document including:
+  1. Use case diagrams
+  2. Use case specifications
+  3. Class and sequence diagrams
+  4. Entity-relationship model
+  5. Business rules
 
-## Herramienta utilizada:
+## Tool used:
 - Enterprise Architect
 
-## Autor
+## Author
 Agustín Nicolás Licursi
